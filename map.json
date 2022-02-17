@@ -696,7 +696,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Space station #amongus"
+         "value":"Space station amongus"
         }, 
         {
          "name":"script",
