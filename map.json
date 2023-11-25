@@ -2844,7 +2844,7 @@
         {
          "columns":6,
          "firstgid":4806,
-         "image":"..\/classroom\/src\/assets\/Special_Zones.png",
+         "image":"src\/assets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
